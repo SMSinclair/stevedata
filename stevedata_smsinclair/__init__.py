@@ -1,6 +1,6 @@
-```
+"""
 stevedata - a collection of data science helper functions for steve
-```
+"""
 
 import pandas as pd
 import numpy as np
